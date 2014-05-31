@@ -1,0 +1,19 @@
+body { padding-top: 70px; }
+
+.entry {
+	height: 100px; /* to accommodate buttons */
+}
+
+.highlight {
+	/* background-color: #fbfce6; */
+}
+
+textarea {
+	resize: none;
+}
+
+.summary textarea {
+	resize: vertical;
+	font-size: normal;
+	height: 150px;
+}
